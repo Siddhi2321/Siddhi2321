@@ -9,9 +9,10 @@
 
 ### 🌟 About Me  
 ✨ Passionate **Java enthusiast** and **Full-Stack Developer**  
-✨ Skilled in **Java, MERN Stack, SQL, and Cloud Technologies**   
+✨ Skilled in **Java, MERN Stack, SQL, and Cloud Technologies**.   
 ✨ Mastering the art Of **Problem Solving** 
-✨ Adept at bringing abstract concepts to life with clean, functional code.
+
+
 
 ---
 
